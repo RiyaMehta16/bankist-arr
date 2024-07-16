@@ -3,9 +3,7 @@ Imitates a banking interface that can send money, borrow loans, keep track of de
 
 # To Use
 log in using the following credentials:
-1. user: rm
-   pin:1111
-2. user:ah
-   pin:2222
+1. user: rm ; pin:1111
+2. user:ah  ; pin:2222
 
    
